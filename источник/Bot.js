@@ -1,12 +1,12 @@
 const vk        	= new (require('vk-io')),
 	request     	= require('request'),
-	BOTID   		= 12345678910; //ID Страницы бота
+	BOTID   		=728325234; //ID Страницы бота
 	http 			= require("http"),
 	https 			= require("https"),
 	cfg 			= require("./cfg/cfg.js"),
  
-vk.setToken('xxx');
-vk.longpoll.start();
+vk.setToken('a7fb7e36c88ad5be3b0903c0991f10a2b248d5d7d14fe0cfcd47ac380cdfed3f209d721d8db6338c7ee08')
+вк . длинный опрос . начать ('a7fb7e36c88ad5be3b0903c0991f10a2b248d5d7d14fe0cfcd47ac380cdfed3f209d721d8db6338c7ee08'); 
 
 let Canvas = require('canvas');
 let commands = [];
